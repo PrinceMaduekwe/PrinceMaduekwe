@@ -1,5 +1,5 @@
-### Prince, Maduekwe.
-### I am focused on improving human life through engineering.
+### Prince Maduekwe.
+I am focused on improving human life through engineering.
 
 <!--
 **PrinceMaduekwe/PrinceMaduekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
