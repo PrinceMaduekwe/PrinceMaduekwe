@@ -1,4 +1,4 @@
-### Prince Maduekwe.
+### Prince Maduekwe.👋
 I am focused on improving human life through engineering. 
 I accomplish this by adopting a multi-disciplinary approach, incorporating knowledge from various fields, and utilizing an engineering-based methodology to tackle complex problems.
 
